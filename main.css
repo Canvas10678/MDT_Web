@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-family: Georgia;
+ }
+ h1{
+    background: black;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Georgia;
+    letter-spacing: 5px;
+    border-top: double ;
+    border-bottom: double;
+ }
+ h2{
+    color: whitesmoke;
+    text-align: right;
+    font-family: Georgia
+ }
+ button{
+    margin:auto;
+    display:block;
+    height: 30px;
+    width: 100px;
+    font-style: normal;
+    }
+ 
+ p{
+    color: whitesmoke;
+    font-family: Georgia;
+    font-size: 20px;
+ }
+ li{
+    color: whitesmoke;
+
+    font-family: Georgia;
+ }
+ ul{
+    color: whitesmoke;
+    font-family: Georgia;
+ }
+ .left_page{
+  text-align: left;
+
+ }
+ 
